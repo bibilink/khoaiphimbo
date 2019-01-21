@@ -1,0 +1,32 @@
+.bannerrightvideo{ float: right;width: 34%;}
+#adsplayer{position:absolute;left:0;top:0;bottom:0;right:0;margin:auto;width:290px;height:270px;z-index:999}
+#adsplayer span{position:absolute;border-radius:50%;top:-10px;right:-10px;background:#fff;width:20px;height:20px;line-height:17px;text-align:center;border:1px solid #151515;cursor:pointer}
+#adsplayer-music{position:absolute;left:0;top:0;bottom:0;right:0;margin:auto;width:97%;height:190px;z-index:999}
+#adsplayer-music span{position:absolute;border-radius:50%;top:-10px;right:-10px;background:#fff;width:20px;height:20px;line-height:17px;text-align:center;border:1px solid #151515;cursor:pointer}
+#adsplayer-music img{height:190px;width:100%}
+/* player */
+.jw-preview{height:219px;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;opacity:1}
+.jw-media{background:rgba(0,0,0,.6);height:100%;overflow:hidden;cursor:pointer;position:absolute;width:100%;height:100%;top:0;left:0;bottom:0;right:0}
+.avatarSinger{position:absolute;top:10px;left:20px;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;width:80px;height:80px;-webkit-border-radius:55px;-moz-border-radius:55px;border-radius:55px}
+.player{position:relative;background:#000}
+.butdown{margin-right:20px;color:#212121;padding:5px 0 5px 0;font-size:14px}
+.vjs-default-skin .vjs-volume-bar{height:.188em!important;    margin: 1.4em auto 0 !important;}
+.vjs-default-skin .vjs-play-progress{background: #0ba14b!important;}
+.vjs-default-skin:hover .vjs-progress-control{font-size:.3em!important}
+.vjs-default-skin .vjs-slider{background:rgba(255,255,255,.3)!important}
+.vjs-default-skin .vjs-load-progress{background:rgba(255,255,255,.3)!important}
+.vjs-default-skin .vjs-volume-level{height: .188em !important;background:#0ba14b!important;background:-webkit-linear-gradient(top,#2E9AFE 0%,#1F7DD5 100%);background:-moz-linear-gradient(top,#2E9AFE 0%,#1F7DD5 100%);background:-o-linear-gradient(top,#2E9AFE 0%,#1F7DD5 100%);background:-ms-linear-gradient(top,#2E9AFE 0%,#1F7DD5 100%)}
+.vjs-default-skin .vjs-volume-bar .vjs-volume-handle{position:absolute;bottom:100%;background:#fff;width:.313em!important;height:1.063em!important;top:-.438em!important;margin-left:0;border-radius:.1565em!important;cursor:pointer}
+.vjs-default-skin .vjs-volume-handle:before{display:none;!important;}
+.vjs-default-skin .vjs-volume-handle:hover:before{    background: #00a7f8;}
+.vjs-default-skin .vjs-seek-handle{width:0;height:0;position:absolute;top:-5px!important;left:0;background:#0ba14b!important;z-index:3;box-shadow:0 0 1px 1px rgba(0,0,0,.1);z-index:3;border-radius:7px;-moz-border-radius:7px;-webkit-border-radius:7px;margin-bottom:-3px;overflow:hidden;margin-left:0;-webkit-transition:opacity 0.2s linear,height 0.2s linear,margin-bottom 0.2s linear;-moz-transition:opacity 0.2s linear,height 0.2s linear,margin-bottom 0.2s linear;transition:opacity 0.2s linear,height 0.2s linear,margin-bottom 0.2s linear;opacity:0;background:-webkit-linear-gradient(top,#FFFFFF 0%,#ECECEC 100%);background:-moz-linear-gradient(top,#FFFFFF 0%,#ECECEC 100%);background:-o-linear-gradient(top,#FFFFFF 0%,#ECECEC 100%);background:-ms-linear-gradient(top,#FFFFFF 0%,#ECECEC 100%);background:linear-gradient(top,#FFFFFF 0%,#ECECEC 100%)}
+.vjs-default-skin .vjs-seek-handle{width:13px !important;height:13px !important;opacity:1}
+.vjs-default-skin .vjs-control-bar{background-color: transparent !important;}
+.vjs-default-skin .vjs-seek-handle:before{display:none!important;font-size:0!important;display:block;width:7px!important;height:7px!important;top:4px!important;left:4px!important;background:#BDBDBD;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;-webkit-transform:inherit!important;-moz-transform:inherit!important;-ms-transform:inherit!important;-o-transform:inherit!important;transform:inherit!important}
+.vjs-default-skin .vjs-control:focus:before{text-shadow:none!important}
+.vjs-default-skin .vjs-control:hover:before{color:#0ba14b;text-shadow:none!important}
+.video-js{font-size:13px!important}
+.vjs-default-skin{color:#fff!important}
+/*
+.box_menu_player{border-bottom:#ececec solid 1px;border-top:solid 1px #ececec;padding:12px 0 12px 0;margin:0 10px 0 10px}
+*/
